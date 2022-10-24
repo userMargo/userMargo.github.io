@@ -1,5 +1,5 @@
-import {GameView, clickToTail, canvas} from "~/homework/js/gameview.js"
-import {move} from "~/homework/js/game.js"
+import {GameView, clickToTail, canvas} from "gameview.js"
+import {move} from "./game.js"
 
 const initialState = [
     [4, 1, 3],
