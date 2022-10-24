@@ -1,4 +1,4 @@
-import {GameView, clickToTail, canvas} from "gameview.js"
+import {GameView, clickToTail, canvas} from "./gameview.js"
 import {move} from "./game.js"
 
 const initialState = [
